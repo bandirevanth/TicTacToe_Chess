@@ -102,13 +102,6 @@ h1 {
     background-color: #004d40;
 }
 
-/* Footer */
-footer {
-    margin-top: 20px;
-    font-size: 0.9rem;
-    color: #555;
-}
-
 /* Cells */
 .cell {
     width: 100px;
