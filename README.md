@@ -18,6 +18,11 @@ This interactive game project combines the strategic simplicity of Tic Tac Toe w
 
 ---
 
+## Usage
+It is a **TWO-PLAYER** game. Click on cells to place your mark. The game will automatically detect wins or draws.
+
+---
+
 ## Installation
 
 1. Clone the repository:
