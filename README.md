@@ -31,3 +31,5 @@ It is a **TWO-PLAYER** game. Click on cells to place your mark. The game will au
    cd Chess_TicTacToe
 
 LIVE DEMO - https://chess-tictactoe.onrender.com
+
+*Created by Bandi Revanth — blending tradition with playful innovation.*
