@@ -1,5 +1,5 @@
-# Chess + TicTacToe
-_A fusion of classic Tic Tac Toe with chess-inspired design and logic._
+# Chess x TicTacToe
+_A fusion of classic Tic Tac Toe with chess-inspired design._
 
 ---
 
