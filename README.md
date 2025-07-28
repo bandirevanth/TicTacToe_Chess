@@ -22,7 +22,7 @@ This interactive game project combines the strategic simplicity of Tic Tac Toe w
 It is a **TWO-PLAYER** game. Click on cells to place your mark. 
 Take turns and play (i.e. make your moves) The game will automatically detect wins or draws.
 
-TL:DR -> It is your classic Tic-Tac-Toe with Chess pieces :)
+TL;DR -> It is your classic Tic-Tac-Toe with Chess pieces :)
 
 ---
 
