@@ -1,7 +1,8 @@
 # Chess x TicTacToe
 _A fusion of classic Tic Tac Toe with chess-inspired design._  
 
-LIVE DEMO - https://chess-tictactoe.onrender.com
+<p>LIVE DEMO - https://chess-tictactoe.onrender.com</p>
+
 ---
 
 ## Overview
