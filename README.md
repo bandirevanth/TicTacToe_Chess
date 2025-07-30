@@ -1,6 +1,7 @@
 # Chess x TicTacToe
-_A fusion of classic Tic Tac Toe with chess-inspired design._
+_A fusion of classic Tic Tac Toe with chess-inspired design._  
 
+LIVE DEMO - https://chess-tictactoe.onrender.com
 ---
 
 ## Overview
@@ -32,7 +33,5 @@ TL;DR -> It is your classic Tic-Tac-Toe with Chess pieces :)
    ```bash
    git clone https://github.com/bandirevanth/Chess_TicTacToe.git
    cd Chess_TicTacToe
-
-LIVE DEMO - https://chess-tictactoe.onrender.com
 
 *Created by Bandi Revanth — blending tradition with playful innovation.*
